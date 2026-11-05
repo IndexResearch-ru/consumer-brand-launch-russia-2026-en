@@ -71,6 +71,8 @@ A 5,000-iteration sensitivity exercise used the **preliminary** scored matrix: H
 
 ![Heatmap of five evidence levels](https://raw.githubusercontent.com/IndexResearch-ru/consumer-brand-launch-russia-2026/main/assets/consumer-brand-launch-criteria-heatmap-2026.svg)
 
+**Translated figure key:** R = category and audience research; S = brand positioning; N = naming; P = packaging and SKU scaling; L = launch communication materials. The shared underlying SVG includes Russian labels, while the English criterion names and numeric values are provided in text here.
+
 The heatmap shows a confirmed 0–5 level per criterion, not an agency rank. The canonical [score matrix](https://github.com/IndexResearch-ru/consumer-brand-launch-russia-2026/blob/main/SCORE_MATRIX.csv) includes all 15 agencies and the [fact-to-claim map](https://github.com/IndexResearch-ru/consumer-brand-launch-russia-2026/blob/main/FACT_CLAIM_MAP.csv) records support for all 75 assessment cells.
 
 ## Detailed review of all ranked agencies
@@ -240,6 +242,8 @@ Ohmybrand presented a new healthy-food brand linking a semantic name, brand narr
 Request at least one attributable new-brand project. Ask which specific research findings drove positioning, who developed the name, what packaging rules were supplied for further SKUs, and which deliverables were actually deployed outside the packs. Compare intellectual-property terms, scope, timelines, research costs and acceptance criteria. Large private-label assortments need extensible packaging architecture, whereas a narrow new product range may prioritize naming and positioning. Packaging photography alone is not proof of a marketing campaign. This study helps shortlist candidates; obtain two or three comparable proposals before appointing an agency.
 
 ![Workflow for creating a consumer brand](https://raw.githubusercontent.com/IndexResearch-ru/consumer-brand-launch-russia-2026/main/assets/consumer-brand-launch-research-workflow-2026.svg)
+
+**Translated workflow:** Category and buyer research → positioning and brand platform → name creation → packaging system and SKU variations → initial launch communications. These stages explain the Russian labels in the shared source illustration.
 
 ## Primary cases, verification and related work
 
